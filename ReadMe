@@ -1,0 +1,16 @@
+
+
+Equivalent to file is "module" in python. It can be imported from other modules
+via the [import] keyword
+
+If you need to specify individual components within a module you use the 
+[from *module_name*] keyword
+
+Need input? Use the [input("Please enter")] function
+
+
+
+
+To see type of mem addr
+type()
+id()
